@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.jio.cmsdashboard",
-        "sha256_cert_fingerprints": ["D0:07:A6:12:41:E7:FA:EA:04:79:88:43:65:94:10:A9:4C:16:A9:F7:30:7F:3F:71:52:84:21:3D:B3:EF:6F:1B"]
-      }
-    }]
